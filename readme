@@ -30,7 +30,7 @@ daily-grind-server/
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/daily-grind-server.git
+git clone https://github.com/HaidaMarese/daily-grind-server.git
 cd daily-grind-server
 npm install
 ```

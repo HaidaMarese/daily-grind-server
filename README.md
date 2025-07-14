@@ -40,6 +40,10 @@ npm install
 - http://localhost:3000 
 - http://localhost:3000/contact 
 
+## Screenshot
+
+![image] <img width="2858" height="1612" alt="image" src="https://github.com/user-attachments/assets/467b3f98-88fb-4ce1-9294-a0e2dc4f5d6a" />
+
 
 ## Reflection Questions :
 1. What is the difference between res.send() and res.sendFile()?
